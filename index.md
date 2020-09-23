@@ -25,10 +25,11 @@ This Services does not uses these “cookies” explicitly. However, the app may
 
 We may employ third-party companies and individuals due to the following reasons:
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
+- To facilitate our Service;
+- To provide the Service on our behalf;
+- To perform Service-related services; or
+- To assist us in analyzing how our Service is used.
+
 ### Security
 
 We value your trust, thus we are striving to use commercially acceptable means of protecting your privacy. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
