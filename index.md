@@ -1,5 +1,5 @@
 # Privacy Policy
-"FEMDA Apps" developes and "RMN Commerce" sells and distributes the "Open Stunt Beta" app as a freemium android app. This SERVICE is provided by "FEMDA Apps" and is intended for use as is.
+"LightOnDevs" developes and "RMN Commerce" sells and distributes the "Open Stunt Beta" app as a freemium android app. This SERVICE is provided by "FEMDA Apps" and is intended for use as is.
 
 This page is used to inform website visitors and app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
