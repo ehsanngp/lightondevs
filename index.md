@@ -1,5 +1,5 @@
 # Privacy Policy
-"LightOnDevs" developes, sells and publishes the "Telelight Pro" and "Open Stunt Beta" android apps. This SERVICE is provided by "LightOnDevs" and is intended for use as is.
+"LightOnDevs" developes, sells and publishes the "Open Stunt Beta" android apps. This SERVICE is provided by "LightOnDevs" and is intended for use as is.
 
 This page is used to inform website visitors and app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
