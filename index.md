@@ -1,11 +1,11 @@
 # Privacy Policy
-"LightOnDevs" developes and "RMN Commerce" sells and distributes the "Open Stunt Beta" app as a freemium android app. This SERVICE is provided by "FEMDA Apps" and is intended for use as is.
+"LightOnDevs" developes, sells and publishes the "Telelight Pro" and "Open Stunt Beta" android apps. This SERVICE is provided by "LightOnDevs" and is intended for use as is.
 
 This page is used to inform website visitors and app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. We never collect, transfer to any server and save in our servers, any Personal Information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at "Open Stunt Beta", unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at each app, unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use
 
@@ -44,4 +44,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: esynaghydev2 [at] gmail [dot] com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: femdaapps [at] gmail [dot] com
